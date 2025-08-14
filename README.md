@@ -10,10 +10,10 @@ identifiers:
 
 Identifiers |
 ----------- |
-Sam         |
-Ada         |
-Ruby        |
-Brendan     |
+Sam         |l
+Ada         |b
+Ruby        |g
+Brendan     |q
 
 And a Client has a file containing the following identifiers, paired with
 associated integer values:
